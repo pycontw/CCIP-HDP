@@ -1,5 +1,5 @@
 ---
-title: COSCUP 2020 COVID-19 健康聲明
+title: PyCon Taiwan 2020 COVID-19 健康聲明
 endpoint: https://hd.coscup.org/
 callback: https://dl.opass.app/?link=https%3A%2F%2Fopass.app%2Fopen%2F%3Fevent_id%3DCOSCUP_2020%26token%3D<<TOKEN>>&apn=app.opass.ccip&amv=38&isi=1436417025&ibi=app.opass.ccip
 fields:
@@ -13,7 +13,8 @@ fields:
       en: Phone
       zh: 電話
     name: phone
-    type: phone
+    type: tel
+    pattern: "((?=(09))[0-9]{10})$"
     required:
       type: AtLeaseOne
       relavant: email
@@ -27,12 +28,12 @@ fields:
       relavant: phone
 # <!-- !WARNING! DO NOT CHANGE ANYTHING UNLESS YOU UNDERSTAND WHAT ARE YOU ACTUALLY DO  -->
 ---
-# COSCUP 2020 COVID-19 健康聲明
+# PyCon Taiwan 2020 COVID-19 健康聲明
 
 :::spotlight-danger
-請注意，若欲順利進入 COSCUP 年會會場，以下旅遊史、追蹤措施、接觸史、是否群聚皆須為「否」，如有不實填報，須負民事、刑事及行政等相關法律責任；如您有任何項目為「是」，請您放棄填寫問卷，待狀況解除後再行填寫。
+請注意，若欲順利進入 PyCon 年會會場，以下旅遊史、追蹤措施、接觸史、是否群聚皆須為「否」，如有不實填報，須負民事、刑事及行政等相關法律責任；如您有任何項目為「是」，請您放棄填寫問卷，待狀況解除後再行填寫。
 
-All participants are required to answer the following questions about the travel history, the follow-up measures, the contact history, and the cluster history before entering the COSCUP venue. You shall bear all the legal liability if you do not respond honestly. The questionnaire will be terminated if you can not refute the questions.
+All participants are required to answer the following questions about the travel history, the follow-up measures, the contact history, and the cluster history before entering the PyCon venue. You shall bear all the legal liability if you do not respond honestly. The questionnaire will be terminated if you can not refute the questions.
 :::
 
 :::spotlight-part
