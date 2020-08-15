@@ -34,6 +34,9 @@
       padding: 1rem 0;
       overflow: hidden;
 
+      > * > a {
+        text-decoration: underline;
+      }
       &-danger,
       &-warning {
         background-color: rgba($red, 0.2);

@@ -31,9 +31,9 @@ fields:
 # PyCon Taiwan 2020 COVID-19 健康聲明
 
 :::spotlight-danger
-請注意，若欲順利進入 PyCon 年會會場，以下旅遊史、追蹤措施、接觸史、是否群聚皆須為「否」，如有不實填報，須負民事、刑事及行政等相關法律責任；如您有任何項目為「是」，請您放棄填寫問卷，待狀況解除後再行填寫。
+請注意，若欲順利進入 PyCon 年會會場，以下旅遊史、追蹤措施、接觸史、是否群聚皆須為「否」，如有不實填報，須負民事、刑事及行政等相關法律責任；如您有任何項目為「是」，請您放棄填寫問卷，待狀況解除後再行填寫。 請參閱 [PyCon Taiwan 防疫守則](https://docs.google.com/document/d/1YGOA8gZYykKnd5omMvU1EbxC4fT7YBonxMQLluRF2uc/edit?usp=sharing)
 
-All participants are required to answer the following questions about the travel history, the follow-up measures, the contact history, and the cluster history before entering the PyCon venue. You shall bear all the legal liability if you do not respond honestly. The questionnaire will be terminated if you can not refute the questions.
+All participants are required to answer the following questions about the travel history, the follow-up measures, the contact history, and the cluster history before entering the PyCon venue. You shall bear all the legal liability if you do not respond honestly. The questionnaire will be terminated if you can not refute the questions. Please see [PyCon Taiwan COVID-19 Guidelines](https://docs.google.com/document/d/1xUDYhcDWGxUlTZXmweN-GAmuh65FX992PSoyN1PzpsY/edit?usp=sharing)
 :::
 
 :::spotlight-part
