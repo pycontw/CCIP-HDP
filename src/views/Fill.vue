@@ -4,6 +4,7 @@
       <input
         :type="field.type"
         :name="field.name"
+        :pattern="field.pattern"
         v-model="fieldData[field.name]"
         class="fill fill-inputbox"
       />
